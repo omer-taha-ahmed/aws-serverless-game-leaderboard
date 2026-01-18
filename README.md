@@ -823,20 +823,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📸 Screenshots
 
-### Landing Page
-![Landing Page](./screenshots/landing-page.png)
-
-### Submit Score
-![Submit Score](./screenshots/submit-score.png)
-
-### Leaderboard
-![Leaderboard](./screenshots/leaderboard.png)
-
-### Player Statistics
-![Player Stats](./screenshots/player-stats.png)
-
-### CloudWatch Logs
-![CloudWatch](./screenshots/cloudwatch-logs.png)
+https://github.com/omer-taha-ahmed/aws-serverless-game-leaderboard/blob/main/screenshots/README.md
 
 ---
 
@@ -844,7 +831,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repo if you found it helpful!**
 
-**Built with ❤️ using AWS Serverless Architecture**
+**Built by omar ahmed**
 
 </div>
 ```
